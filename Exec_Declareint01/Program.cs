@@ -23,8 +23,8 @@ namespace Exec_Declareint01
             int number5 = 202 % 2;
             Console.WriteLine(number5);
 
-            int number6 = 0;
-            int number7 = 1;
+            int number6 = 2;
+            int number7 = 3;
             int exchange = number6;
 
             number6 = number7;
